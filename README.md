@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I’m Gopalakrishnan (@gkcodez)
+
+💻 Software engineer in testing with 9+ years of experience into multiple automation testing and development technologies.
+
+Find more about me on my portfolio website (https://gopalakrishnan.vercel.app)
+
 <!--
 **gkcodez/gkcodez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
