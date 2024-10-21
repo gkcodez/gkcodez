@@ -5,9 +5,9 @@ Welcome to my code garage where I make and break things.
 
 I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in testing and developing enterprise applications.
 
-#### ⚙️ I like automating everything around. Am I being smart? Nah! just lazy to repeat things!
+#### ⚙️ I like automating everything around. Am I being smart? Nah! just too lazy to repeat things!
 
-#### 🥰 Fell in love with hacking. Please don't ask me to hack facebook accounts!
+#### 🥰 Fell in love with hacking. Please don't ask me to hack facebook accounts though!
 
 #### 😎 Passion for developing software. At times, I switch on my developer mode!
 
