@@ -27,7 +27,7 @@ applications.
 
 ## ⭐ Favorites
 
-### Employee Portal:
+### Employee Portal
 
 - Full stack web application for managing employee data.
 
@@ -43,7 +43,7 @@ applications.
 
 - **Link**: https://github.com/gkcodez/bug-bounty-reports-hackerone
 
-### Portfolio:
+### Portfolio
 
 - Portfolio web application built with next.js and typescript.
 
@@ -51,7 +51,7 @@ applications.
 
 - **Link**: https://github.com/gkcodez/next-portfolio
 
-### Autobot:
+### Autobot
 
 - Web application with most used web elements for UI test automation practice.
 
