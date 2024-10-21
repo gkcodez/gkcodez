@@ -1,6 +1,26 @@
-### Hello geeks ..!
 
-Welcome to my code garage where I make and break things (@gkcodez) 
+## 👨‍💻 About Me
+
+Welcome to my code garage where I make and break things.
+
+I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in testing and developing enterprise applications.
+
+#### ⚙️ I like automating everything around. Am I being smart? Nah! just lazy to repeat things!
+
+#### 🥰 Fell in love with hacking. Please don't ask me to hack facebook accounts!
+
+#### 😎 Passion for developing software. At times, I switch on my developer mode!
+
+#### 👌 Python makes my life easier, unlike the one in the wild!
+
+#### 😍 Vue and React makes it beautiful, Angular, I'm sorry!
+
+#### Know more about me: https://gopalakrishnan.vercel.app
+
+### 🔗 **Connect with me**
+<p align="left">
+<a href="https://linkedin.com/in/gkcodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+</p>
 
 ## ⭐ Favorites
 
@@ -45,24 +65,6 @@ Welcome to my code garage where I make and break things (@gkcodez)
 
 - **Link**: https://github.com/gkcodez/next-pomodoro
 
-
-
-## 👨‍💻 About Me
-
-Software engineer with a decade of experience in testing and developing enterprise applications. 
-
-- Automating everything around ⚙️
-- Fell in love with hacking 🥰
-- Passion for developing software 😎
-- Python makes my life easier 👌
-- Vue and React makes it beautiful 😍
-
-Know more about me: https://gopalakrishnan.vercel.app
-
-### 🔗 **Connect with me**
-<p align="left">
-<a href="https://linkedin.com/in/gkcodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
 ### Tools and Technologies
 
 #### Automation
@@ -92,9 +94,10 @@ Know more about me: https://gopalakrishnan.vercel.app
 </p>
 
 #### Mobile Application Development
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/flutter.svg" width="60" height="60"/> 
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/dart.svg" width="60" height="60"/> 
-
+<p align="left">
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/flutter.svg" width="60" height="60"/> 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/dart.svg" width="60" height="60"/> 
+</p>
 
 #### CI/CD
 <p align="left">
