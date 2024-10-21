@@ -1,9 +1,9 @@
-
 ## 👨‍💻 About Me
 
 Welcome to my code garage where I make and break things.
 
-I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in testing and developing enterprise applications.
+I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in testing and developing enterprise
+applications.
 
 #### ⚙️ I like automating everything around. Am I being smart? Nah! just too lazy to repeat things!
 
@@ -18,8 +18,11 @@ I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in test
 #### Know more about me: https://gopalakrishnan.vercel.app
 
 ### 🔗 **Connect with me**
+
 <p align="left">
-<a href="https://linkedin.com/in/gkcodez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gkcodez" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/linkedin-icon.svg" alt="gkcodez" height="40" width="40" />
+</a>
 </p>
 
 ## ⭐ Favorites
@@ -56,7 +59,6 @@ I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in test
 
 - **Link**: https://github.com/gkcodez/autobot
 
-
 ### Pomodoro
 
 - Pomodoro application for productivity.
@@ -68,12 +70,14 @@ I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in test
 ### Tools and Technologies
 
 #### Automation
+
 <p align="left">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/selenium.svg" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/cypress-icon.svg" width="60" height="60"/>
 </p>
 
 #### Languages
+
 <p align="left">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/python.svg" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/c-sharp.svg" width="60" height="60"/>
@@ -81,6 +85,7 @@ I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in test
 </p>
 
 #### Web development
+
 <p align="left">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/html-5.svg" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/bootstrap.svg" width="60" height="60"/> 
@@ -94,12 +99,14 @@ I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in test
 </p>
 
 #### Mobile Application Development
+
 <p align="left">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/flutter.svg" width="60" height="60"/> 
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/dart.svg" width="60" height="60"/> 
 </p>
 
 #### CI/CD
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/git-icon.svg" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/docker-icon.svg" width="60" height="60"/>
@@ -109,18 +116,20 @@ I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in test
 </p>
 
 #### Databases
+
 <p align="left">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/postgresql.svg" width="60" height="60"/> 
 </p>
 
 #### API
+
 <p align="left">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/postman-icon.svg" width="60" height="60"/> 
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/flask.svg" width="60" height="60"/>
 </p>
 
-
 #### Miscellaneous
+
 <p align="left">
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/ubuntu.svg" width="60" height="60"/>
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/cucumber.svg" width="60" height="60"/> 
