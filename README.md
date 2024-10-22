@@ -1,5 +1,6 @@
 ## 👨‍💻 About Me
 
+---
 
 Welcome to my code garage where I make and break things.
 
@@ -16,20 +17,22 @@ applications.
 >
 > 😍 Vue and React makes it beautiful, Angular, I'm sorry!
 
-**Know more about me:** https://gopalakrishnan.vercel.app
-
-
-### 🔗 **Connect with me**
-
-
+### Know more:
 <p align="left">
 <a href="https://linkedin.com/in/gkcodez" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/linkedin-icon.svg" alt="gkcodez" height="40" width="40" />
 </a>
+&nbsp;
+<a href="https://x.com/gkcodez" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/twitter.svg" 
+alt="gkcodez" height="40" width="40" />
+</a>
 </p>
+
 
 ## ⭐ Favorites
 
+---
 
 ### Employee Portal
 
@@ -73,71 +76,100 @@ applications.
 
 ### Tools and Technologies
 
+---
 
 #### Automation
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/selenium.svg" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/cypress-icon.svg" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/selenium.svg" width="50" 
+height="50"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/cypress-icon.svg" width="50" 
+height="50"/> &nbsp;
 </p>
 
 #### Languages
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/python.svg" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/c-sharp.svg" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/java.svg" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/python.svg" width="50" 
+height="50"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/c-sharp.svg" width="50" 
+height="50"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/java.svg" width="50" 
+height="50"/> &nbsp;
 </p>
 
 #### Web development
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/html-5.svg" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/bootstrap.svg" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/javascript.svg" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/typescript-icon.svg" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/nginx.svg" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/nodejs-icon.svg" width="60" height="60"/> 
-   <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/angular-icon.svg" width="60" height="60" style="margin-left='50pt'"/> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/react.svg" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/vue.svg" width="60" height="60"/> 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/html-5.svg" width="50" 
+height="50"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/bootstrap.svg" width="50" 
+height="50"/> &nbsp; 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/javascript.svg" width="50" 
+height="50"/> &nbsp; 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/typescript-icon.svg" 
+width="50" height="50"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/nginx.svg" width="50" 
+height="50"/> &nbsp; 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/nodejs-icon.svg" width="50" 
+height="50"/> &nbsp; 
+   <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/angular-icon.svg" width="50" 
+height="50" style="margin-left='50pt'"/> 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/react.svg" width="50" 
+height="50"/> &nbsp; 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/vue.svg" width="50" 
+height="50"/> &nbsp; 
 </p>
 
 #### Mobile Application Development
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/flutter.svg" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/dart.svg" width="60" height="60"/> 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/flutter.svg" width="50" 
+height="50"/> &nbsp; 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/dart.svg" width="50" 
+height="50"/> &nbsp; 
 </p>
 
 #### CI/CD
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/git-icon.svg" width="60" height="60"/>
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/docker-icon.svg" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/kubernetes.svg" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/jenkins.svg" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/bitbucket.svg" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/git-icon.svg" width="50" 
+height="50"/> &nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/docker-icon.svg" width="50" 
+height="50"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/kubernetes.svg" width="50" 
+height="50"/> &nbsp; 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/jenkins.svg" width="50" 
+height="50"/> &nbsp; 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/bitbucket.svg" width="50" 
+height="50"/> &nbsp;
 </p>
 
 #### Databases
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/postgresql.svg" width="60" height="60"/> 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/postgresql.svg" width="50" 
+height="50"/> &nbsp; 
 </p>
 
 #### API
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/postman-icon.svg" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/flask.svg" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/postman-icon.svg" width="50" 
+height="50"/> &nbsp; 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/flask.svg" width="50" 
+height="50"/> &nbsp;
 </p>
 
 #### Miscellaneous
 
 <p align="left">
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/ubuntu.svg" width="60" height="60"/>
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/cucumber.svg" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/firebase.svg" width="60" height="60"/> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/figma.svg" width="60" height="60"/> 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/ubuntu.svg" width="50" 
+height="50"/> &nbsp;
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/cucumber.svg" width="50" 
+height="50"/> &nbsp; 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/firebase.svg" width="50" 
+height="50"/> &nbsp; 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/figma.svg" width="50" 
+height="50"/> &nbsp; 
 </p>
