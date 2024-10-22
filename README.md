@@ -6,12 +6,16 @@ I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in test
 applications.
 
 ⚙️ I like automating everything around. Am I being smart? Nah! just too lazy to repeat things!
+
 🥰 Fell in love with hacking. Please don't ask me to hack facebook accounts though!
+
 😎 Passion for developing software. At times, I switch on my developer mode!
+
 👌 Python makes my life easier, unlike the one in the wild!
+
 😍 Vue and React makes it beautiful, Angular, I'm sorry!
 
-#### Know more about me: https://gopalakrishnan.vercel.app
+**Know more about me:** https://gopalakrishnan.vercel.app
 
 ### 🔗 **Connect with me**
 
