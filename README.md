@@ -1,4 +1,4 @@
-## About Me
+## 👨‍💻 About Me
 
 Welcome to my code garage where I make and break things.
 
@@ -27,7 +27,7 @@ alt="gkcodez" height="40" width="40" />
 </a>
 </p>
 
-## Favorites
+## ⭐ Favorites
 
 
 ### Employee Portal
@@ -71,7 +71,7 @@ alt="gkcodez" height="40" width="40" />
 - **Link**: https://github.com/gkcodez/next-pomodoro
 
 
-## Tools and Technologies
+## 🛠️ Tools and Technologies
 
 
 #### Automation
