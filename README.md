@@ -1,6 +1,5 @@
 ## 👨‍💻 About Me
 
----
 
 Welcome to my code garage where I make and break things.
 
@@ -32,7 +31,6 @@ alt="gkcodez" height="40" width="40" />
 
 ## ⭐ Favorites
 
----
 
 ### Employee Portal
 
@@ -74,102 +72,74 @@ alt="gkcodez" height="40" width="40" />
 
 - **Link**: https://github.com/gkcodez/next-pomodoro
 
-### Tools and Technologies
+## 🛠️ Tools and Technologies
 
----
 
 #### Automation
 
 <p align="left">
-    <img src="icons/selenium.svg" width="50" 
-height="50"/> &nbsp;
-    <img src="icons/cypress-icon.svg" width="50" 
-height="50"/> &nbsp;
+    <img src="icons/selenium.svg" width="50" height="50"/> &nbsp;
+    <img src="icons/cypress-icon.svg" width="50" height="50"/> &nbsp;
 </p>
 
 #### Languages
 
 <p align="left">
-    <img src="icons/python.svg" width="50" 
-height="50"/> &nbsp;
-    <img src="icons/c-sharp.svg" width="50" 
-height="50"/> &nbsp;
-    <img src="icons/java.svg" width="50" 
-height="50"/> &nbsp;
+    <img src="icons/python.svg" width="50" height="50"/> &nbsp;
+    <img src="icons/c-sharp.svg" width="50" height="50"/> &nbsp;
+    <img src="icons/java.svg" width="50" height="50"/> &nbsp;
 </p>
 
 #### Web development
 
 <p align="left">
-    <img src="icons/html-5.svg" width="50" 
-height="50"/> &nbsp;
-    <img src="icons/bootstrap.svg" width="50" 
-height="50"/> &nbsp; 
-    <img src="icons/javascript.svg" width="50" 
-height="50"/> &nbsp; 
+    <img src="icons/html-5.svg" width="50" height="50"/> &nbsp;
+    <img src="icons/bootstrap.svg" width="50" height="50"/> &nbsp; 
+    <img src="icons/javascript.svg" width="50" height="50"/> &nbsp; 
     <img src="icons/typescript-icon.svg" 
 width="50" height="50"/> &nbsp;
-    <img src="icons/nginx.svg" width="50" 
-height="50"/> &nbsp; 
-    <img src="icons/nodejs-icon.svg" width="50" 
-height="50"/> &nbsp; 
-   <img src="icons/angular-icon.svg" width="50" 
-height="50" style="margin-left='50pt'"/> 
-    <img src="icons/react.svg" width="50" 
-height="50"/> &nbsp; 
-    <img src="icons/vue.svg" width="50" 
-height="50"/> &nbsp; 
+    <img src="icons/nginx.svg" width="50" height="50"/> &nbsp; 
+    <img src="icons/nodejs-icon.svg" width="50" height="50"/> &nbsp; 
+   <img src="icons/angular-icon.svg" width="50" height="50" style="margin-left='50pt'"/> 
+    <img src="icons/react.svg" width="50" height="50"/> &nbsp; 
+    <img src="icons/vue.svg" width="50" height="50"/> &nbsp; 
 </p>
 
 #### Mobile Application Development
 
 <p align="left">
-    <img src="icons/flutter.svg" width="50" 
-height="50"/> &nbsp; 
-    <img src="icons/dart.svg" width="50" 
-height="50"/> &nbsp; 
+    <img src="icons/flutter.svg" width="50" height="50"/> &nbsp; 
+    <img src="icons/dart.svg" width="50" height="50"/> &nbsp; 
 </p>
 
 #### CI/CD
 
 <p align="left">
-  <img src="icons/git-icon.svg" width="50" 
-height="50"/> &nbsp;
-<img src="icons/docker-icon.svg" width="50" 
-height="50"/> &nbsp;
-    <img src="icons/kubernetes.svg" width="50" 
-height="50"/> &nbsp; 
-    <img src="icons/jenkins.svg" width="50" 
-height="50"/> &nbsp; 
-    <img src="icons/bitbucket.svg" width="50" 
-height="50"/> &nbsp;
+  <img src="icons/git-icon.svg" width="50" height="50"/> &nbsp;
+<img src="icons/docker-icon.svg" width="50" height="50"/> &nbsp;
+    <img src="icons/kubernetes.svg" width="50" height="50"/> &nbsp; 
+    <img src="icons/jenkins.svg" width="50" height="50"/> &nbsp; 
+    <img src="icons/bitbucket.svg" width="50" height="50"/> &nbsp;
 </p>
 
 #### Databases
 
 <p align="left">
-    <img src="icons/postgresql.svg" width="50" 
-height="50"/> &nbsp; 
+    <img src="icons/postgresql.svg" width="50" height="50"/> &nbsp; 
 </p>
 
 #### API
 
 <p align="left">
-    <img src="icons/postman-icon.svg" width="50" 
-height="50"/> &nbsp; 
-    <img src="icons/flask.svg" width="50" 
-height="50"/> &nbsp;
+    <img src="icons/postman-icon.svg" width="50" height="50"/> &nbsp; 
+    <img src="icons/flask.svg" width="50" height="50"/> &nbsp;
 </p>
 
 #### Miscellaneous
 
 <p align="left">
-    <img src="icons/ubuntu.svg" width="50" 
-height="50"/> &nbsp;
-    <img src="icons/cucumber.svg" width="50" 
-height="50"/> &nbsp; 
-    <img src="icons/firebase.svg" width="50" 
-height="50"/> &nbsp; 
-    <img src="icons/figma.svg" width="50" 
-height="50"/> &nbsp; 
+    <img src="icons/ubuntu.svg" width="50" height="50"/> &nbsp;
+    <img src="icons/cucumber.svg" width="50" height="50"/> &nbsp; 
+    <img src="icons/firebase.svg" width="50" height="50"/> &nbsp; 
+    <img src="icons/figma.svg" width="50" height="50"/> &nbsp; 
 </p>
