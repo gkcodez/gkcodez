@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
----
+
 Welcome to my code garage where I make and break things.
 
 I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in testing and developing enterprise
@@ -21,7 +21,7 @@ applications.
 
 ### 🔗 **Connect with me**
 
----
+
 <p align="left">
 <a href="https://linkedin.com/in/gkcodez" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/linkedin-icon.svg" alt="gkcodez" height="40" width="40" />
@@ -30,7 +30,6 @@ applications.
 
 ## ⭐ Favorites
 
----
 
 ### Employee Portal
 
@@ -74,7 +73,6 @@ applications.
 
 ### Tools and Technologies
 
----
 
 #### Automation
 
