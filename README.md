@@ -1,7 +1,3 @@
-## About Me
-
----
-
 Welcome to my code garage where I make and break things.
 
 I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in testing and developing enterprise
@@ -29,9 +25,6 @@ alt="gkcodez" height="40" width="40" />
 </a>
 </p>
 
-### Favorites
-
----
 
 ### Employee Portal
 
@@ -73,10 +66,6 @@ alt="gkcodez" height="40" width="40" />
 
 - **Link**: https://github.com/gkcodez/next-pomodoro
 
-
-### Tools and Technologies
-
----
 
 #### Automation
 
