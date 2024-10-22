@@ -1,24 +1,27 @@
 ## 👨‍💻 About Me
 
+---
 Welcome to my code garage where I make and break things.
 
 I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in testing and developing enterprise
 applications.
 
-⚙️ I like automating everything around. Am I being smart? Nah! just too lazy to repeat things!
-
-🥰 Fell in love with hacking. Please don't ask me to hack facebook accounts though!
-
-😎 Passion for developing software. At times, I switch on my developer mode!
-
-👌 Python makes my life easier, unlike the one in the wild!
-
-😍 Vue and React makes it beautiful, Angular, I'm sorry!
+> ⚙️ I like automating everything around. Am I being smart? Nah! just too lazy to repeat things!
+>
+> 🥰 Fell in love with hacking. Please don't ask me to hack facebook accounts though!
+>
+> 😎 Passion for developing software. At times, I switch on my developer mode!
+>
+> 👌 Python makes my life easier, unlike the one in the wild!
+>
+> 😍 Vue and React makes it beautiful, Angular, I'm sorry!
 
 **Know more about me:** https://gopalakrishnan.vercel.app
 
+
 ### 🔗 **Connect with me**
 
+---
 <p align="left">
 <a href="https://linkedin.com/in/gkcodez" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/linkedin-icon.svg" alt="gkcodez" height="40" width="40" />
@@ -26,6 +29,8 @@ applications.
 </p>
 
 ## ⭐ Favorites
+
+---
 
 ### Employee Portal
 
@@ -68,6 +73,8 @@ applications.
 - **Link**: https://github.com/gkcodez/next-pomodoro
 
 ### Tools and Technologies
+
+---
 
 #### Automation
 
