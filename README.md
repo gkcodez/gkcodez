@@ -10,7 +10,7 @@ applications.
 >
 > 🥰 Fell in love with hacking. Please don't ask me to hack facebook accounts though!
 >
-> 😎 Passion for developing software. At times, I switch on my developer mode!
+> 😎 Passion for developing software. At times, I switch my developer mode ON!
 >
 > 👌 Python makes my life easier, unlike the one in the wild!
 >
