@@ -18,7 +18,7 @@ applications.
 
 ### Know more:
 <p align="left">
-<a href="https://linkedin.com/in/gkcodez" target="blank">
+<a href="https://linkedin.com/in/gopalakrishnanpv" target="blank">
 <img align="center" src="icons/linkedin-icon.svg" alt="gkcodez" height="40" width="40" />
 </a>
 &nbsp;
