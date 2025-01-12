@@ -1,37 +1,58 @@
 
-## 👨‍💻 About Me
-
-![](https://komarev.com/ghpvc/?username=gkcodez&color=red&style=for-the-badge&label=Profile+Views)
+## 👨‍💻 About Me 
 
 Welcome to my code garage where I make and break things.
 
 I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in testing and developing enterprise
 applications.
 
-> ⚙️ I like automating everything around. Am I being smart? Nah! just too lazy to repeat things!
->
-> 🥰 Fell in love with hacking. Please don't ask me to hack facebook accounts though!
->
-> 😎 Passion for developing software. At times, I switch my developer mode ON!
->
-> 👌 Python makes my life easier, unlike the one in the wild!
->
-> 😍 Vue and React makes it beautiful, Angular, I'm sorry!
+⚙️ I like automating everything around. Am I being smart? Nah! just too lazy to repeat things!
 
-### Know more:
+🥰 Fell in love with hacking. Please don't ask me to hack facebook accounts though!
+
+😎 Passion for developing software. At times, I switch my developer mode ON!
+
+👌 Python makes my life easier, unlike the one in the wild!
+
+😍 Vue and React makes it beautiful, Angular, I'm sorry!
+
+![Profile Views](https://komarev.com/ghpvc/?username=gkcodez&style=for-the-badge&color=red)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&duration=2000&pause=1000&color=F7F7F7&vCenter=true&random=true&width=500&height=24&lines=Developer+%F0%9F%92%BB+;Automation+Tester+%F0%9F%94%8E+;Bug+Bounty+Hunter+%F0%9F%90%9E+;Open+Source+Enthusiast+%F0%9F%98%89+)](https://git.io/typing-svg)
+
+### Follow me on:
+
 <p align="left">
 <a href="https://linkedin.com/in/gopalakrishnanpv" target="blank">
-<img align="center" src="icons/linkedin-icon.svg" alt="gkcodez" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
-&nbsp;
-<a href="https://x.com/gkcodez" target="blank">
-<img align="center" src="icons/twitter.svg" 
-alt="gkcodez" height="40" width="40" />
-</a>
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkcodez&show_icons=true&theme=radical)
 
 
-## ⭐ Favorites
+## 🛠️ Tools and Technologies
+![Badge](https://img.shields.io/badge/Web-HTML5-red)
+![Badge](https://img.shields.io/badge/Web-CSS3-blue)
+![Badge](https://img.shields.io/badge/Web-JavaScript-yellow)
+![Badge](https://img.shields.io/badge/Web-Bootstrap-purple)
+![Badge](https://img.shields.io/badge/Web-Shadcn-black)
+![Badge](https://img.shields.io/badge/Web-Angular-red)
+![Badge](https://img.shields.io/badge/Web-React%20JS-skyblue)
+![Badge](https://img.shields.io/badge/Web-Vue%203-green)
+
+![Badge](https://img.shields.io/badge/Automation-Selenium-green)
+![Badge](https://img.shields.io/badge/Automation-Cypress-yellow)
+
+![Badge](https://img.shields.io/badge/Programming-Python-blue)
+![Badge](https://img.shields.io/badge/Programming-CSharp-green)
+![Badge](https://img.shields.io/badge/Programming-Java-blue)
+
+![Badge](https://img.shields.io/badge/Devops-GitHub-darkgray)
+![Badge](https://img.shields.io/badge/Devops-Jenkins-red)
+![Badge](https://img.shields.io/badge/Devops-Docker-skyblue)
+![Badge](https://img.shields.io/badge/Devops-Kubernetes-blue)
+
+## ⭐ Favorite Projects
 
 
 ### Employee Portal
@@ -74,74 +95,3 @@ alt="gkcodez" height="40" width="40" />
 
 - **Link**: https://github.com/gkcodez/next-pomodoro
 
-## 🛠️ Tools and Technologies
-
-
-#### Automation
-
-<p align="left">
-    <img src="icons/selenium.svg" width="50" height="50"/> &nbsp;
-    <img src="icons/cypress-icon.svg" width="50" height="50"/> &nbsp;
-</p>
-
-#### Languages
-
-<p align="left">
-    <img src="icons/python.svg" width="50" height="50"/> &nbsp;
-    <img src="icons/c-sharp.svg" width="50" height="50"/> &nbsp;
-    <img src="icons/java.svg" width="50" height="50"/> &nbsp;
-</p>
-
-#### Web development
-
-<p align="left">
-    <img src="icons/html-5.svg" width="50" height="50"/> &nbsp;
-    <img src="icons/bootstrap.svg" width="50" height="50"/> &nbsp; 
-    <img src="icons/javascript.svg" width="50" height="50"/> &nbsp; 
-    <img src="icons/typescript-icon.svg" 
-width="50" height="50"/> &nbsp;
-    <img src="icons/nginx.svg" width="50" height="50"/> &nbsp; 
-    <img src="icons/nodejs-icon.svg" width="50" height="50"/> &nbsp; 
-   <img src="icons/angular-icon.svg" width="50" height="50" style="margin-left='50pt'"/> 
-    <img src="icons/react.svg" width="50" height="50"/> &nbsp; 
-    <img src="icons/vue.svg" width="50" height="50"/> &nbsp; 
-</p>
-
-#### Mobile Application Development
-
-<p align="left">
-    <img src="icons/flutter.svg" width="50" height="50"/> &nbsp; 
-    <img src="icons/dart.svg" width="50" height="50"/> &nbsp; 
-</p>
-
-#### CI/CD
-
-<p align="left">
-  <img src="icons/git-icon.svg" width="50" height="50"/> &nbsp;
-<img src="icons/docker-icon.svg" width="50" height="50"/> &nbsp;
-    <img src="icons/kubernetes.svg" width="50" height="50"/> &nbsp; 
-    <img src="icons/jenkins.svg" width="50" height="50"/> &nbsp; 
-    <img src="icons/bitbucket.svg" width="50" height="50"/> &nbsp;
-</p>
-
-#### Databases
-
-<p align="left">
-    <img src="icons/postgresql.svg" width="50" height="50"/> &nbsp; 
-</p>
-
-#### API
-
-<p align="left">
-    <img src="icons/postman-icon.svg" width="50" height="50"/> &nbsp; 
-    <img src="icons/flask.svg" width="50" height="50"/> &nbsp;
-</p>
-
-#### Miscellaneous
-
-<p align="left">
-    <img src="icons/ubuntu.svg" width="50" height="50"/> &nbsp;
-    <img src="icons/cucumber.svg" width="50" height="50"/> &nbsp; 
-    <img src="icons/firebase.svg" width="50" height="50"/> &nbsp; 
-    <img src="icons/figma.svg" width="50" height="50"/> &nbsp; 
-</p>
