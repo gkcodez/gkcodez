@@ -1,5 +1,7 @@
+
 ## 👨‍💻 About Me
 
+![](https://komarev.com/ghpvc/?username=gkcodez&color=red&style=for-the-badge&label=Profile+Views)
 
 Welcome to my code garage where I make and break things.
 
