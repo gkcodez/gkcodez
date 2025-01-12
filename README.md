@@ -1,6 +1,8 @@
 
 ## 👨‍💻 About Me 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&background=111111&center=true&vCenter=true&random=true&width=500&height=75&lines=Developer+%F0%9F%92%BB+;Automation+Tester+%F0%9F%94%8E+;Bug+Bounty+Hunter+%F0%9F%90%9E+;Open+Source+Enthusiast+%F0%9F%98%89+)](https://git.io/typing-svg)
+
 Welcome to my code garage where I make and break things.
 
 I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in testing and developing enterprise
@@ -17,8 +19,6 @@ applications.
 😍 Vue and React makes it beautiful, Angular, I'm sorry!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gkcodez&style=for-the-badge&color=red)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=22&duration=2000&pause=1000&color=F7F7F7&vCenter=true&random=true&width=500&height=24&lines=Developer+%F0%9F%92%BB+;Automation+Tester+%F0%9F%94%8E+;Bug+Bounty+Hunter+%F0%9F%90%9E+;Open+Source+Enthusiast+%F0%9F%98%89+)](https://git.io/typing-svg)
 
 ### Follow me on:
 
