@@ -1,5 +1,5 @@
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&duration=2000&pause=1000&color=F85C4D&center=false&vCenter=true&random=true&width=500&height=50&lines=Developer+%F0%9F%92%BB+;Automation+Tester+%F0%9F%94%8E+;Bug+Bounty+Hunter+%F0%9F%90%9E+;Open+Source+Enthusiast+%F0%9F%98%89+)](https://git.io/typing-svg)
+## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&duration=2000&pause=1000&color=F85C4D&center=false&vCenter=true&random=true&width=500&height=50&lines=Developer+%F0%9F%92%BB+;Automation+Tester+%F0%9F%94%8E+;Bug+Bounty+Hunter+%F0%9F%90%9E+;Open+Source+Enthusiast+%F0%9F%98%89+)]
 
 Welcome to my code garage where I make and break things.
 
