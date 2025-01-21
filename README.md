@@ -1,7 +1,5 @@
 
-## 👨‍💻 About Me 
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&duration=2000&pause=1000&color=F7F7F7&background=111111&center=true&vCenter=true&random=true&width=500&height=100&lines=Developer+%F0%9F%92%BB+;Automation+Tester+%F0%9F%94%8E+;Bug+Bounty+Hunter+%F0%9F%90%9E+;Open+Source+Enthusiast+%F0%9F%98%89+)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&duration=2000&pause=1000&color=F85C4D&center=false&vCenter=true&random=true&width=500&height=50&lines=Developer+%F0%9F%92%BB+;Automation+Tester+%F0%9F%94%8E+;Bug+Bounty+Hunter+%F0%9F%90%9E+;Open+Source+Enthusiast+%F0%9F%98%89+)](https://git.io/typing-svg)
 
 Welcome to my code garage where I make and break things.
 
@@ -27,7 +25,7 @@ applications.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkcodez&show_icons=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkcodez&show_icons=true&theme=aura_dark)
 
 
 ## 🛠️ Tools and Technologies
