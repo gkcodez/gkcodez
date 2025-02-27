@@ -52,6 +52,13 @@ applications.
 
 ## ⭐ Favorite Projects
 
+### Dorkmine
+
+- Opensource google dork engine for bug bounty hunters, penetration testers and security professionals.
+
+- **Technologies used:** Next.js, Typescript, Razorpay Integration.
+
+- **Link**: https://github.com/gkcodez/dorkmine
 
 ### Employee Portal
 
