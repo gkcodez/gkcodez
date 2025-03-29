@@ -58,7 +58,7 @@ applications.
 
 - **Technologies used:** Next.js, Typescript, Razorpay Integration.
 
-- **Link**: https://github.com/gkcodez/dorkmine
+- **Link**: https://github.com/gktomic/dorkmine
 
 ### Employee Portal
 
@@ -66,7 +66,7 @@ applications.
 
 - **Technologies used:** React, Node.js, SQL server
 
-- **Link**: https://github.com/gkcodez/sern-employee-portal
+- **Link**: https://github.com/gktomic/sern-employee-portal
 
 ### Bug bounty reports hackerone
 
@@ -74,7 +74,7 @@ applications.
 
 - **Technologies used:** Python
 
-- **Link**: https://github.com/gkcodez/bug-bounty-reports-hackerone
+- **Link**: https://github.com/gktomic/bug-bounty-reports-hackerone
 
 ### Portfolio
 
@@ -82,7 +82,7 @@ applications.
 
 - **Technologies used:** Next.js, Typescript, Tailwind CSS
 
-- **Link**: https://github.com/gkcodez/next-portfolio
+- **Link**: https://github.com/gktomic/next-portfolio
 
 ### Autobot
 
@@ -90,7 +90,7 @@ applications.
 
 - **Technologies used:** React.js, Tailwind CSS
 
-- **Link**: https://github.com/gkcodez/autobot
+- **Link**: https://github.com/gktomic/autobot
 
 ### Pomodoro
 
@@ -98,5 +98,5 @@ applications.
 
 - **Technologies used:** Next.js, Tailwind CSS
 
-- **Link**: https://github.com/gkcodez/next-pomodoro
+- **Link**: https://github.com/gktomic/next-pomodoro
 
