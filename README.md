@@ -16,7 +16,7 @@ applications.
 
 😍 Vue and React makes it beautiful, Angular, I'm sorry!
 
-![Profile Views](https://komarev.com/ghpvc/?username=gkcodez&style=for-the-badge&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=gktomic&style=for-the-badge&color=red)
 
 ### Follow me on:
 
@@ -25,7 +25,7 @@ applications.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkcodez&show_icons=true&theme=aura_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gktomic&show_icons=true&theme=aura_dark)
 
 
 ## 🛠️ Tools and Technologies
