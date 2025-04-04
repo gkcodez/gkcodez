@@ -104,7 +104,7 @@ applications.
 ## Support me
 If you like my work, consider supporting me!
 
-<a href="https://www.buymeacoffee.com/gktomic"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=gktomic&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/gktomic" target="_blank" rel="noopener noreferrer"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=gktomic&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
 
-<a href="https://www.razorpay.me/@gktomic"><img src="https://github.com/user-attachments/assets/6f7dd69c-c009-47a9-832d-d9fd753052fa" width="200px" height="50px"/></a>
+<a href="https://razorpay.me/@gktomic" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/6f7dd69c-c009-47a9-832d-d9fd753052fa" width="200px" height="50px"/></a>
 
