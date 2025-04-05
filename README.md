@@ -24,6 +24,7 @@ applications.
 <a href="https://linkedin.com/in/gopalakrishnanpv" target="blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gktomic&show_icons=true&theme=aura_dark)
 
@@ -52,21 +53,32 @@ applications.
 
 ## ⭐ Favorite Projects
 
+### Portfolio
+
+- Portfolio web application built with next.js and typescript.
+
+- **Technologies used:** Next.js, Typescript, Tailwind CSS
+
+- **Link**: https://github.com/gktomic/gopalakrishnan
+- **Live**: https://gopalakrishnan.vercel.app
+
 ### Dorkmine
 
 - Opensource google dork engine for bug bounty hunters, penetration testers and security professionals.
 
 - **Technologies used:** Next.js, Typescript, Razorpay Integration.
 
-- **Link**: https://github.com/gktomic/dorkmine
+- **Repo**: https://github.com/gktomic/dorkmine
+- **Live**: https://dorkmine.vercel.app
 
-### Employee Portal
+### Autobot
 
-- Full stack web application for managing employee data.
+- Web application with most used web elements for UI test automation practice.
 
-- **Technologies used:** React, Node.js, SQL server
+- **Technologies used:** React.js, Tailwind CSS
 
-- **Link**: https://github.com/gktomic/sern-employee-portal
+- **Link**: https://github.com/gktomic/autobot
+- **Live**: https://autobot.vercel.app
 
 ### Bug bounty reports hackerone
 
@@ -76,35 +88,23 @@ applications.
 
 - **Link**: https://github.com/gktomic/bug-bounty-reports-hackerone
 
-### Portfolio
 
-- Portfolio web application built with next.js and typescript.
+### Employee Portal
 
-- **Technologies used:** Next.js, Typescript, Tailwind CSS
+- Full stack web application for managing employee data.
 
-- **Link**: https://github.com/gktomic/next-portfolio
+- **Technologies used:** React, Node.js, SQL server
 
-### Autobot
-
-- Web application with most used web elements for UI test automation practice.
-
-- **Technologies used:** React.js, Tailwind CSS
-
-- **Link**: https://github.com/gktomic/autobot
-
-### Pomodoro
-
-- Pomodoro application for productivity.
-
-- **Technologies used:** Next.js, Tailwind CSS
-
-- **Link**: https://github.com/gktomic/next-pomodoro
-
+- **Link**: https://github.com/gktomic/sern-employee-portal
 
 ## Support me
 If you like my work, consider supporting me!
 
-<a href="https://www.buymeacoffee.com/gktomic" target="_blank" rel="noopener noreferrer"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=gktomic&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" /></a>
+**Razorpay:** https://razorpay.me/@gktomic
 
-<a href="https://razorpay.me/@gktomic" target="_blank" rel="noopener noreferrer"><img src="https://github.com/user-attachments/assets/6f7dd69c-c009-47a9-832d-d9fd753052fa" width="200px" height="50px"/></a>
+**Buy Me a Coffee:** https://www.buymeacoffee.com/gktomic
+
+Cheers, Happy Coding 💻!
+
+
 
