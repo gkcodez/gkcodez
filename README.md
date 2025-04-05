@@ -18,38 +18,97 @@ applications.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gktomic&style=for-the-badge&color=red)
 
-### Follow me on:
+### Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/gopalakrishnanpv" target="blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-</a>
+  <a href="https://github.com/gktomic" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/gktomic" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/gktomic" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/gktomic" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://facebook.com/gktomic" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@gktomic" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="Medium" width="30" height="30"/>
+  </a>&nbsp;&nbsp;
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gktomic&show_icons=true&theme=aura_dark)
 
 
-## 🛠️ Tools and Technologies
-![Badge](https://img.shields.io/badge/Web-HTML5-red)
-![Badge](https://img.shields.io/badge/Web-CSS3-blue)
-![Badge](https://img.shields.io/badge/Web-JavaScript-yellow)
-![Badge](https://img.shields.io/badge/Web-Bootstrap-purple)
-![Badge](https://img.shields.io/badge/Web-Shadcn-black)
-![Badge](https://img.shields.io/badge/Web-Angular-red)
-![Badge](https://img.shields.io/badge/Web-React%20JS-skyblue)
-![Badge](https://img.shields.io/badge/Web-Vue%203-green)
+## 🛠️ Tools & Technologies
 
-![Badge](https://img.shields.io/badge/Automation-Selenium-green)
-![Badge](https://img.shields.io/badge/Automation-Cypress-yellow)
+### 🚀 Programming Languages
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />&nbsp;&nbsp;
+</div>
 
-![Badge](https://img.shields.io/badge/Programming-Python-blue)
-![Badge](https://img.shields.io/badge/Programming-CSharp-green)
-![Badge](https://img.shields.io/badge/Programming-Java-blue)
+### 💻 Frontend Development
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" title="Next.js"/>&nbsp;&nbsp;
+</div>
 
-![Badge](https://img.shields.io/badge/Devops-GitHub-darkgray)
-![Badge](https://img.shields.io/badge/Devops-Jenkins-red)
-![Badge](https://img.shields.io/badge/Devops-Docker-skyblue)
-![Badge](https://img.shields.io/badge/Devops-Kubernetes-blue)
+### 🔧 Backend Development
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>&nbsp;&nbsp;
+</div>
+
+### 🗄️ Databases
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>&nbsp;&nbsp;
+</div>
+
+### 🚢 DevOps & Deployment
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" title="GitLab"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>&nbsp;&nbsp;
+</div>
+
+### 🧰 Tools & Platforms
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>&nbsp;&nbsp;
+</div>
+
+### 📱 Mobile Development
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native"/>&nbsp;&nbsp;
+</div>
+
+### 🌐 Hosting & CMS
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" title="Netlify"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" title="Vercel"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" title="WordPress"/>&nbsp;&nbsp;
+</div>
+
+### 🧪 Testing
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" title="Selenium"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" title="Jest"/>&nbsp;&nbsp;
+</div>
 
 ## ⭐ Favorite Projects
 
