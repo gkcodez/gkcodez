@@ -16,7 +16,7 @@ applications.
 
 😍 Vue and React makes it beautiful, Angular, I'm sorry!
 
-![Profile Views](https://komarev.com/ghpvc/?username=gktomic&style=for-the-badge&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=gkcodez&style=for-the-badge&color=red)
 
 ### Connect with me
 
