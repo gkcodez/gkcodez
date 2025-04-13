@@ -3,7 +3,7 @@
 
 Welcome to my code garage where I make and break things.
 
-I'm Gopalakrishnan / GK, a Software engineer with a decade of experience in testing and developing enterprise
+I'm Gopalakrishnan (Gobeecode), a Software engineer with a decade of experience in testing and developing enterprise
 applications.
 
 ⚙️ I like automating everything around. Am I being smart? Nah! just too lazy to repeat things!
