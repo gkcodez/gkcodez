@@ -16,32 +16,32 @@ applications.
 
 😍 Vue and React makes it beautiful, Angular, I'm sorry!
 
-![Profile Views](https://komarev.com/ghpvc/?username=gkcodez&style=for-the-badge&color=red)
+![Profile Views](https://komarev.com/ghpvc/?username=gobeecode&style=for-the-badge&color=red)
 
 ### Connect with me
 
 <p align="left">
-  <a href="https://github.com/gkcodez" target="_blank">
+  <a href="https://github.com/gobeecode" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30"/>
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/gkcodez" target="_blank">
+  <a href="https://linkedin.com/in/gobeecode" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/gkcodez" target="_blank">
+  <a href="https://x.com/gobeecode" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
   </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/gkcodez" target="_blank">
+  <a href="https://instagram.com/gobeecode" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30"/>
   </a>&nbsp;&nbsp;
-  <a href="https://facebook.com/gkcodez" target="_blank">
+  <a href="https://facebook.com/gobeecode" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="30" height="30"/>
   </a>&nbsp;&nbsp;
-  <a href="https://medium.com/@gkcodez" target="_blank">
+  <a href="https://medium.com/@gobeecode" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="Medium" width="30" height="30"/>
   </a>&nbsp;&nbsp;
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkcodez&show_icons=true&theme=aura_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gobeecode&show_icons=true&theme=aura_dark)
 
 
 ## 🛠️ Tools & Technologies
@@ -118,7 +118,7 @@ applications.
 
 - **Technologies used:** Next.js, Typescript, Tailwind CSS
 
-- **Link**: https://github.com/gkcodez/gopalakrishnan
+- **Link**: https://github.com/gobeecode/gopalakrishnan
 - **Live**: https://gopalakrishnan.vercel.app
 
 ### Dorkmine
@@ -127,7 +127,7 @@ applications.
 
 - **Technologies used:** Next.js, Typescript, Razorpay Integration.
 
-- **Repo**: https://github.com/gkcodez/dorkmine
+- **Repo**: https://github.com/gobeecode/dorkmine
 - **Live**: https://dorkmine.vercel.app
 
 ### Autobot
@@ -136,7 +136,7 @@ applications.
 
 - **Technologies used:** React.js, Tailwind CSS
 
-- **Link**: https://github.com/gkcodez/autobot
+- **Link**: https://github.com/gobeecode/autobot
 - **Live**: https://autobot.vercel.app
 
 ### Bug bounty reports hackerone
@@ -145,7 +145,7 @@ applications.
 
 - **Technologies used:** Python
 
-- **Link**: https://github.com/gkcodez/bug-bounty-reports-hackerone
+- **Link**: https://github.com/gobeecode/bug-bounty-reports-hackerone
 
 
 ### Employee Portal
@@ -154,14 +154,14 @@ applications.
 
 - **Technologies used:** React, Node.js, SQL server
 
-- **Link**: https://github.com/gkcodez/sern-employee-portal
+- **Link**: https://github.com/gobeecode/sern-employee-portal
 
 ## Support me
 If you like my work, consider supporting me!
 
-**Razorpay:** https://razorpay.me/@gkcodez
+**Razorpay:** https://razorpay.me/@gobeecode
 
-**Buy Me a Coffee:** https://www.buymeacoffee.com/gkcodez
+**Buy Me a Coffee:** https://www.buymeacoffee.com/gobeecode
 
 Cheers, Happy Coding 💻!
 
