@@ -159,9 +159,9 @@ applications.
 ## Support me
 If you like my work, consider supporting me!
 
-**Buy Me a Coffee:** https://www.buymeacoffee.com/gobeecode
+**Razorpay:** https://razorpay.me/@gobeecode
 
-**Paypal:** https://paypal.me/gobeecode
+**Buy Me a Coffee:** https://www.buymeacoffee.com/gobeecode
 
 Cheers, Happy Coding 💻!
 
