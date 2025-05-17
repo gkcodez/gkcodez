@@ -1,169 +1,109 @@
 
-## ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&duration=2000&pause=1000&color=F85C4D&center=false&vCenter=true&random=true&width=500&height=50&lines=Developer+%F0%9F%92%BB+;Automation+Tester+%F0%9F%94%8E+;Bug+Bounty+Hunter+%F0%9F%90%9E+;Open+Source+Enthusiast+%F0%9F%98%89+)
-
-Welcome to my code garage where I make and break things.
-
-I'm Gopalakrishnan (Gobeecode), a Software engineer with a decade of experience in testing and developing enterprise
-applications.
-
-⚙️ I like automating everything around. Am I being smart? Nah! just too lazy to repeat things!
-
-🥰 Fell in love with hacking. Please don't ask me to hack facebook accounts though!
-
-😎 Passion for developing software. At times, I switch my developer mode ON!
-
-👌 Python makes my life easier, unlike the one in the wild!
-
-😍 Vue and React makes it beautiful, Angular, I'm sorry!
-
-![Profile Views](https://komarev.com/ghpvc/?username=gobeecode&style=for-the-badge&color=red)
-
-### Connect with me
+<h1 align="left"> Hi, There 👋 I'm Gopalakrishnan (aka GobeeCode)</h1>
 
 <p align="left">
-  <a href="https://github.com/gobeecode" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/gobeecode" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://x.com/gobeecode" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitter.svg" alt="Twitter" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://instagram.com/gobeecode" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://facebook.com/gobeecode" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" alt="Facebook" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://medium.com/@gobeecode" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/medium.svg" alt="Medium" width="30" height="30"/>
-  </a>&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=gobeecode&style=flat-square&color=red" alt="views"/>
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gobeecode&show_icons=true&theme=aura_dark)
+I'm a passionate **Software Engineer** with over a **decade of experience** in building and testing enterprise-grade applications.
+
+💻 Welcome to my digital garage — where I **make, break, and automate** everything in sight.
+- ⚙️ I like **automating** everything around. Am I being smart? Nah! just too lazy to repeat things!
+- 🛡️ Fell in love with **hacking**. Please don't ask me to hack facebook accounts though!
+- 😎 Passion for developing software. At times, I switch my **developer** mode ON!
+- 🐍 **Python** makes my life easier, unlike the one in the wild!
+- 🌐 **Vue and React** makes it beautiful, Angular, I'm sorry!
 
 
-## 🛠️ Tools & Technologies
 
-### 🚀 Programming Languages
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" title="C#" />&nbsp;&nbsp;
-</div>
+## 🧠 Tech Stack
 
-### 💻 Frontend Development
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" width="40" title="Next.js"/>&nbsp;&nbsp;
-</div>
+### 🧰 Languages & Frameworks
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-### 🔧 Backend Development
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express"/>&nbsp;&nbsp;
-</div>
+### 🌐 Frontend
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 
-### 🗄️ Databases
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>&nbsp;&nbsp;
-</div>
+### 🔧 Backend & DevOps
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 🚢 DevOps & Deployment
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" title="GitLab"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>&nbsp;&nbsp;
-</div>
-
-### 🧰 Tools & Platforms
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" title="Postman"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>&nbsp;&nbsp;
-</div>
-
-### 📱 Mobile Development
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React Native"/>&nbsp;&nbsp;
-</div>
-
-### 🌐 Hosting & CMS
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" title="Netlify"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" title="Vercel"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="40" title="WordPress"/>&nbsp;&nbsp;
-</div>
+### 🗃️ Databases
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 ### 🧪 Testing
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" title="Selenium"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" title="Jest"/>&nbsp;&nbsp;
-</div>
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
 
-## ⭐ Favorite Projects
+### 🛠 Tools & Platforms
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
-### Portfolio
+### 📱 Mobile Development
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat&logo=react&logoColor=black)
 
-- Portfolio web application built with next.js and typescript.
+### 🌍 Hosting
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-- **Technologies used:** Next.js, Typescript, Tailwind CSS
+---
 
-- **Link**: https://github.com/gobeecode/gopalakrishnan
-- **Live**: https://gopalakrishnan.vercel.app
+## 🧩 Featured Projects
 
-### Dorkmine
+| Project | Description | Tech Stack | Live |
+|--------|-------------|------------|------|
+| **[Portfolio](https://github.com/gobeecode/gopalakrishnan)** | Developer portfolio built with Next.js | `Next.js`, `Tailwind CSS`, `TypeScript` | [Live ↗](https://gopalakrishnan.vercel.app) |
+| **[Dorkmine](https://github.com/gobeecode/dorkmine)** | Google dork engine for bug bounty hunters | `Next.js`, `TypeScript`, `Razorpay` | [Live ↗](https://dorkmine.vercel.app) |
+| **[Autobot](https://github.com/gobeecode/autobot)** | UI elements playground for test automation | `React`, `Tailwind CSS` | [Live ↗](https://autobot.vercel.app) |
+| **[HackerOne Reports](https://github.com/gobeecode/bug-bounty-reports-hackerone)** | Python script to scrape public bug bounty reports | `Python` | — |
+| **[Employee Portal](https://github.com/gobeecode/sern-employee-portal)** | Full-stack employee management system | `React`, `Node.js`, `SQL Server` | — |
 
-- Opensource google dork engine for bug bounty hunters, penetration testers and security professionals.
+## 📊 GitHub Stats
 
-- **Technologies used:** Next.js, Typescript, Razorpay Integration.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=gobeecode&show_icons=true&theme=aura_dark" height="180" />
+</p>
 
-- **Repo**: https://github.com/gobeecode/dorkmine
-- **Live**: https://dorkmine.vercel.app
-
-### Autobot
-
-- Web application with most used web elements for UI test automation practice.
-
-- **Technologies used:** React.js, Tailwind CSS
-
-- **Link**: https://github.com/gobeecode/autobot
-- **Live**: https://autobot.vercel.app
-
-### Bug bounty reports hackerone
-
-- Automation tool to fetch bug bounty reports from hackerone.
-
-- **Technologies used:** Python
-
-- **Link**: https://github.com/gobeecode/bug-bounty-reports-hackerone
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=30&duration=2000&pause=1000&color=F85C4D&center=false&vCenter=true&random=true&width=500&height=50&lines=Developer+%F0%9F%92%BB+;Automation+Tester+%F0%9F%94%8E+;Bug+Bounty+Hunter+%F0%9F%90%9E+;Open+Source+Enthusiast+%F0%9F%98%89+)
 
 
-### Employee Portal
+## ☕ Support Me
 
-- Full stack web application for managing employee data.
+If my work helped you, consider buying me a coffee or supporting me via Razorpay!
 
-- **Technologies used:** React, Node.js, SQL server
+- 🧾 [Buy Me a Coffee](https://www.buymeacoffee.com/gobeecode)
+- 💳 [Razorpay](https://razorpay.me/@gobeecode)
 
-- **Link**: https://github.com/gobeecode/sern-employee-portal
+## 🔗 Connect with Me
 
-## Support me
-If you like my work, consider supporting me!
+<p align="left"> 
+  <a href="https://github.com/gobeecode" target="_blank"> <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub" width="40" height="40"/> </a>&nbsp;&nbsp; 
+  <a href="https://linkedin.com/in/gobeecode" target="_blank"> <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn" width="40" height="40"/> </a>&nbsp;&nbsp; 
+  <a href="https://x.com/gobeecode" target="_blank"> <img src="https://img.icons8.com/fluency/48/twitterx.png" alt="Twitter X" width="40" height="40"/> </a>&nbsp;&nbsp; 
+  <a href="https://instagram.com/gobeecode" target="_blank"> <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" width="40" height="40"/> </a>&nbsp;&nbsp; 
+  <a href="https://facebook.com/gobeecode" target="_blank"> <img src="https://img.icons8.com/fluency/48/facebook-new.png" alt="Facebook" width="40" height="40"/> </a>&nbsp;&nbsp; 
+  <a href="https://medium.com/@gobeecode" target="_blank"> <img src="https://img.icons8.com/fluency/48/medium-logo.png" alt="Medium" width="40" height="40"/> </a> 
+</p>
 
-**Razorpay:** https://razorpay.me/@gobeecode
 
-**Buy Me a Coffee:** https://www.buymeacoffee.com/gobeecode
+### 🔚 That’s all folks!
 
-Cheers, Happy Coding 💻!
+_“Code. Break. Fix. Repeat. And then automate the whole thing.”_
 
-
-
+Happy Coding 💻❤️
